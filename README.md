@@ -1,5 +1,11 @@
 ## bindata
 
+*NOTICE*
+
+This is forked repository that was provided from github.com/jteeuwen/go-bindata.
+
+See https://www.reddit.com/r/golang/comments/7vv9zz/popular_lib_gobindata_removed_from_github_or_why/
+
 This package converts any file into managable Go source code. Useful for
 embedding binary data into a go program. The file data is optionally gzip
 compressed before being converted to a raw byte slice.
