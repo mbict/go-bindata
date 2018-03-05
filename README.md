@@ -19,7 +19,7 @@ output being generated.
 
 To install the library and command line program, use the following:
 
-	go get -u github.com/mattn/go-bindata/...
+	go get -u github.com/mbict/go-bindata/...
 
 
 ### Usage
@@ -190,6 +190,6 @@ and must follow the build tags syntax specified by the go tool.
 
 ### Related projects
 
-[go-bindata-assetfs](https://github.com/elazarl/go-bindata-assetfs#readme) -
+[go-bindata-assetfs](https://github.com/mbict/go-bindata-assetfs#readme) -
 implements `http.FileSystem` interface. Allows you to serve assets with `net/http`.
 
